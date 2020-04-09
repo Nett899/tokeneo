@@ -21,6 +21,9 @@ project = 'toke'
 copyright = '2020, toke'
 author = 'toke'
 
+# specify the master doc, otherwise the build at read the docs fails
+master_doc = 'index'
+
 
 # -- General configuration ---------------------------------------------------
 
