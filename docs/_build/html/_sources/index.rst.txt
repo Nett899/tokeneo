@@ -10,6 +10,8 @@ Welcome to toke's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. toctree::
+	support
 
 
 Indices and tables
