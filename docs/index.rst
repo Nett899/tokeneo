@@ -22,3 +22,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+FAQ
+==================
+
+.. toctree::
+	czym-jest-program-teoshare
