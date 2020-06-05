@@ -28,3 +28,4 @@ FAQ
 
 .. toctree::
 	czym-jest-program-teoshare
+	czym-jest-teo
