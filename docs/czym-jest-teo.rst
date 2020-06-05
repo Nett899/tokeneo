@@ -1,8 +1,8 @@
-==============================
-Czym jest program TeoShare?
-==============================
+=======================
+Czym jest program Teo?
+=======================
 
-Teo to TEO :)
+Teo to TEO
 
 
 
