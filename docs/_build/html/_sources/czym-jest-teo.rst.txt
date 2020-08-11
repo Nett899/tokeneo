@@ -12,7 +12,7 @@ Tokeny TEO umożliwiają otrzymywanie części zysków z transakcji przeprowadzo
 
 
 Program TeoShare - 
-Giełda_kryptowalut_Tokeneo_ wprowadza innowacyjne rozwiązanie jakim jest program TeoShare. Program ten opiera się na wcześniej wspomnianych tokenach TEO. Dzięki programowi giełda dzieli się zyskami zebranymi z opłat transakcyjnych. 
+`Giełda kryptowalut Tokeneo <https://market.tokeneo.com/pl>` wprowadza innowacyjne rozwiązanie jakim jest program TeoShare. Program ten opiera się na wcześniej wspomnianych tokenach TEO. Dzięki programowi giełda dzieli się zyskami zebranymi z opłat transakcyjnych. 
 
 
 Do programu przystąpić może każdy, kto zarejestruje się na giełdzie Tokeneo i przejdzie zautomatyzowany proces weryfikacji. Każdy, kto posiada TEO w swoim portfelu na giełdzie kryptowalut będzie otrzymywał wynagrodzenie proporcjonale do ilości posiadanych tokenów TEO.
@@ -31,4 +31,3 @@ Zakupić dowolną ilość tokenów TEO.
 
 
 
-.. _Giełda_kryptowalut_Tokeneo: https://market.tokeneo.com/pl
