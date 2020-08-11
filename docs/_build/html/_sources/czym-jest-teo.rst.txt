@@ -20,7 +20,7 @@ Do programu przystąpić może każdy, kto zarejestruje się na giełdzie Tokene
 
 
 Jak dołączyć do TeoShare? - 
-Program jest dostępny dla każdego użytkownika giełdy lub innych produktów Tokeneo. Jedno konto umożliwia dostęp również do Kantoru Kryptowalut Tokeneo, gdzie mozliwy jest natychmiastowy zakup Bitcoina i innych kryptowalut. Konto daje również dostęp do własnego, darmowego portfela na zakupione kryptowaluty. W celu dołączenia do programu należy:
+Program jest dostępny dla każdego użytkownika giełdy lub innych produktów Tokeneo. Jedno konto umożliwia dostęp również do `Kantoru Kryptowalut Tokeneo <https://cash.tokeneo.com/pl>`__, gdzie mozliwy jest natychmiastowy zakup Bitcoina i innych kryptowalut. Konto daje również dostęp do własnego, darmowego portfela na zakupione kryptowaluty. W celu dołączenia do programu należy:
 
 Utworzyć konto na giełdzie lub kantorze Tokeneo.
 
