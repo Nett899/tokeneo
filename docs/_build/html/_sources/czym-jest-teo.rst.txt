@@ -12,30 +12,23 @@ Tokeny TEO umożliwiają otrzymywanie części zysków z transakcji przeprowadzo
 
 
 Program TeoShare
-Giełda kryptowalut Tokeneo charakteryzuje się wprowadzeniem innowacyjnego rozwiązania jakim jest program TeoShare. Program ten realizowany jest poprzez stworzenie wcześniej wspomnianych już tokenów TEO. Dzięki programowi dzielimy się z udziałami zebranymi z fee pomiędzy członków naszej giełdy. 
+Giełda kryptowalut Tokeneo wprowadza innowacyjne rozwiązanie jakim jest program TeoShare. Program ten opiera się na wcześniej wspomnianych tokenach TEO. Dzięki programowi giełda dzieli się zyskami zebranymi z opłat transakcyjnych. 
 
 
-
-Do programu dołączyć może każdy, kto zarejestruje się na naszej giełdzie i przejdzie w pełni zautomatyzowany proces weryfikacji. Każdy, kto posiada jakąkolwiek ilość TEO w swoim portfelu na giełdzie będzie otrzymywał proporcjonalne wynagrodzenie.
+Do programu przystąpić może każdy, kto zarejestruje się na giełdzie Tokeneo i przejdzie zautomatyzowany proces weryfikacji. Każdy, kto posiada TEO w swoim portfelu na giełdzie kryptowalut będzie otrzymywał wynagrodzenie proporcjonale do ilości posiadanych tokenów TEO.
 
 
 
 Jak dołączyć do TeoShare?
-Dołączenie do TeoShare to bardzo prosty i szybki proces, dostępny dla każdego użytkownika giełdy lub innych produktów Tokeneo. W celu dołączenia do programu musisz:
+Program jest dostępny dla każdego użytkownika giełdy lub innych produktów Tokeneo. Jedno konto umożliwia dostęp również do Kantoru Kryptowalut Tokeneo, gdzie mozliwy jest natychmiastowy zakup Bitcoina i innych kryptowalut. Konto daje również dostęp do własnego, darmowego portfela na zakupione kryptowaluty. W celu dołączenia do programu należy:
 
-Utworzyć konto na giełdzie Tokeneo
+Utworzyć konto na giełdzie lub kantorze Tokeneo.
 
-Przejść przez proces weryfikacji 
+Przejść przez cały proces weryfikacji.
 
-Zdeponować dowolną ilość tokenów TEO na swoim portfelu
-
-
-
-To wszystko! Program TeoShare nalicza zyski na koniec każdego dnia. Od tego momentu możesz obserwować jak rosną Twoje zyski z naszego programu.
+Zakupić dowolną ilość tokenów TEO.
 
 
 
 
-
-
-.. _giełda_Bitcoin: https://market.tokeneo.com/pl
+.. _Giełda_kryptowalut_Tokeneo: https://market.tokeneo.com/pl
